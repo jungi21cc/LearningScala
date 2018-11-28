@@ -1,0 +1,2 @@
+# LearningScala
+scala basic coding
